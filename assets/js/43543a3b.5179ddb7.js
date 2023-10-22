@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscratchbook=self.webpackChunkscratchbook||[]).push([[9225],{9489:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/scratchbook/blog/tags/hello","allTagsPath":"/scratchbook/blog/tags","count":2}')}}]);
